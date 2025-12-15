@@ -19,8 +19,5 @@
         "version": "15"
       }
     }
-  ],
-  "scripts": {
-    "postdeploy": "npm run db:migrate && npm run db:seed"
-  }
+  ]
 }
